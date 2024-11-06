@@ -20,3 +20,6 @@ Um piano virtual desenvolvido com HTML, CSS e JavaScript, com recursos para toca
 2. **Ajuste de Volume**: Use o controle de volume para aumentar ou diminuir o som.
 3. **Exibição das Letras**: Ative ou desative a exibição das letras das teclas usando o botão disponível na interface.
 
+## Link no ar
+
+https://dev-jonathas.github.io/piano-js/
